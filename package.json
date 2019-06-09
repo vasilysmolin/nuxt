@@ -1,0 +1,24 @@
+{
+  "name": "nuxt",
+  "version": "1.0.0",
+  "description": "My posh Nuxt.js project",
+  "author": "Vasily Smolin",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.5.4",
+    "bootstrap": "^4.3.1",
+    "cross-env": "^5.2.0",
+    "jquery": "^1.9.1",
+    "nuxt": "^2.4.0",
+    "popper.js": "^1.14.7"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
